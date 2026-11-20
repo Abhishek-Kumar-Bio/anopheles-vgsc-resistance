@@ -1,0 +1,6 @@
+allele,cohorts_present,countries,max_frequency,cohorts_tested,highest_in
+V402L,92,"Benin, Burkina Faso, Cameroon, Comoros, The Union of the, Cote d'Ivoire, Ethiopia, Gambia, The, Ghana, Guinea, Kenya, Mali, Nigeria, Senegal, South Sudan",0.6956521739130435,297,NG-TA_colu_2022
+L995F,241,"Angola, Benin, Burkina Faso, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of the Congo, Ethiopia, Gabon, Gambia, The, Ghana, Guinea, Kenya, Mali, Nigeria, Sao Tome and Principe, Senegal, South Sudan, Tanzania, Togo, Uganda, Zambia",1.0,297,BF-02_gamb_2022
+L995S,98,"Burkina Faso, Cameroon, Central African Republic, Democratic Republic of the Congo, Ethiopia, Gabon, Gambia, The, Ghana, Kenya, Mali, Nigeria, Senegal, Tanzania, Uganda, Zambia",1.0,297,UG-E_gamb_2012
+I1527T,87,"Benin, Burkina Faso, Cameroon, Cote d'Ivoire, Gambia, The, Ghana, Guinea, Kenya, Mali, Nigeria, Senegal, South Sudan",0.6956521739130435,297,NG-TA_colu_2022
+N1570Y,127,"Benin, Burkina Faso, Cameroon, Cote d'Ivoire, Ethiopia, Gabon, Gambia, The, Ghana, Guinea, Kenya, Mali, Nigeria, Senegal, South Sudan, Togo",0.41304347826086957,297,ML-4_colu_2012
